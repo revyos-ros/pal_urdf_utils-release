@@ -2,6 +2,12 @@
 Changelog for package pal_urdf_utils
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+2.0.1 (2023-12-19)
+------------------
+* Add website tag
+* Add xml version
+* Contributors: Noel Jimenez
+
 2.0.0 (2023-11-22)
 ------------------
 * Merge branch 'port-to-ros2' into 'humble-devel'
